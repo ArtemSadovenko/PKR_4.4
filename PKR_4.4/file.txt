@@ -1,0 +1,8 @@
+I am
+
+having trouble getting my program to read the spaces in my input file, I am new to and objects in general so any help would be appreciated.
+
+My input file is: Hello my name is Pierre. I like to code .
+My output file is: HellomynameisPierre.Iliketocode.
+
+Another question I have is how can I check if my string has more than one space, and if it does, replace it with only one space.
